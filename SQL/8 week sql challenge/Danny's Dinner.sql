@@ -1,7 +1,7 @@
 /* --------------------
    CASE Study - 01: Danny's Dinner QuestiONs
    --------------------*/
-set search_path = dannys_diner;
+SET search_path = dannys_diner;
   
 SELECT * FROM sales;
 SELECT * FROM menu;
